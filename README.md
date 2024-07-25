@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# FreshFeed
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/user-attachments/assets/89c5f2a7-0229-424a-9ed6-b9e499289b25)
+![image](https://github.com/user-attachments/assets/e197d0e0-7ac2-466f-9e19-fb1bceab98db)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
+1. A React-based news aggregator application leveraging News API to fetch and display the latest
+news across various categories.
+2. Integrated external APIs to seamlessly fetch and update news content in real-time, providing users with
+up-to-date information.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Getting Started
+This project was built using Html, Css, Material UI, React (18.2.0), RapidAPI. It is a web application and for running on your local environment you should follow these guidelines.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
+NPM
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
+The project repository can be found in [GitHub link](https://github.com/ritesh1776/FreshFeed-NewsApp) or just clone the project using this command.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+     using HTTPS
+     # git https://github.com/ritesh1776/FreshFeed-NewsApp.git
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+     
+Open terminal on your workspace with
+     cd /home/workspace/FreshFeed-NewsApp
 
-## Learn More
+## Install
+Install NPM
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Check that you have node and npm installed
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To check if you have Node.js installed, run this command in your terminal:
 
-### Code Splitting
+     node -v
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To confirm that you have npm installed you can run this command in your terminal:
 
-### Analyzing the Bundle Size
+    npm -v
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+To install all the dependences of the project, run the following command:
 
-### Making a Progressive Web App
+    npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To run the application, run the following command:
 
-### Advanced Configuration
+    npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Tools used in this project
+Visual Studio Code
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2024 Ritesh
